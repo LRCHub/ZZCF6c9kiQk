@@ -1,4 +1,4 @@
-# Noa – 愛した君がいた feat. LGYankees、LGMonkees
+# Noa – 愛した君がいた feat. LGYankees、LGMonkees（feat. LGYankees、LGMonkees）
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 

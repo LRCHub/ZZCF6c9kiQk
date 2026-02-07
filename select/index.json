@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "愛した君がいた feat. LGYankees、LGMonkees（feat. LGYankees、LGMonkees）",
+  "base_artist": "Noa",
+  "createdAt": "2026-02-07T23:56:01.070157Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛した君がいた feat. LGYankees、LGMonkees",
+      "artist": "Noa",
+      "has_synced": false,
+      "path": "select/01_愛した君がいた_feat._LGYankees、LGMonkees_Noa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛した君がいた feat. LGYankees, LGMonkees",
+      "artist": "Noa",
+      "has_synced": false,
+      "path": "select/pl_01_愛した君がいた_feat._LGYankees,_LGMonkees_Noa.txt"
+    }
+  ]
+}
